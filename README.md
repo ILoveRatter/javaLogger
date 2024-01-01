@@ -1,2 +1,2 @@
-# javaLogger
-just my java logger again! fun
+# java logger
+for educational purposes, dont use if you dont want to get arrested.
